@@ -42,11 +42,13 @@ Simulating an ATM
 
 A bot for working with neural networks in Telegram
 
-
 ## Featured Repositories 
 
-- [Repository Name 1](link-to-repo-1): Description of repository 1.
-- [Repository Name 2](link-to-repo-2): Description of repository 2.
+- [My resume](https://github.com/numnums021/resume): Resume with main projects and stack.
+- 
+## Featured Repositories 
+
+: secret :) 
 
 ## Let's Connect 
 

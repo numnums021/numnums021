@@ -8,6 +8,8 @@ I thrive on solving complex problems and crafting efficient, scalable solutions.
 
 I also like to vibecode at night.
 
+I've been working a lot over the last couple of years, so I don't post my work here very often.
+
 ## Technologies I Work With 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

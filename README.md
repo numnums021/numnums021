@@ -31,32 +31,28 @@ I also like to vibecode at night.
 
 Here are some of the projects I've been working on:
 
-### [Project Name 1](link-to-project-1)
+### [ATM](https://github.com/numnums021/Final-project)
 
-Description of project 1.
+Simulating an ATM
 
-### [Project Name 2](link-to-project-2)
 
-Description of project 2.
+### [TG_BOT](https://github.com/numnums021/open_ai_tg_bot2)
 
-### [Project Name 3](link-to-project-3)
+A bot for working with neural networks in Telegram
 
-Description of project 3.
 
-## Featured Repositories
+## Featured Repositories 
 
 - [Repository Name 1](link-to-repo-1): Description of repository 1.
 - [Repository Name 2](link-to-repo-2): Description of repository 2.
 
-## Let's Connect
+## Let's Connect 
 
 - LinkedIn: [reference](link-to-linkedin)
-- Email: numnums021@gmail.com
+- Email: numnums021@gmail.com; fo.mind@mail.ru
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about software development! 😊
 
 
 <!--

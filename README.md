@@ -55,7 +55,8 @@ A bot for working with neural networks in Telegram
 - LinkedIn: [reference](link-to-linkedin)
 - Email: numnums021@gmail.com; fo.mind@mail.ru
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Codewars](https://www.codewars.com/users/danyaHJ77/badges/large)
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
